@@ -10,7 +10,7 @@ Optimizations
  -> CUDA 10.1
  -> cuDNN 7.5
  -> TensorRT 5.1 (with workaround)
- -> TensorFlow XLA (trying to apply)
+ -> TensorFlow XLA (with workaround)
  -> mkl-dnn
  
 Support RTX20xx series
