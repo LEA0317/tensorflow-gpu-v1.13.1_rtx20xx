@@ -14,4 +14,5 @@ Optimizations
  -> mkl-dnn
  
 Support RTX20xx series
+        GTX10xx series
 ```
